@@ -1,58 +1,48 @@
-## My Skills
+<a href="https://devdaltonedition.com"><img src="assets/hero.svg" width="100%" alt="Olá, eu sou Marcelo Dalton. Desenvolvo sistemas web, scripts FiveM, scripts de GTA VI e RPG no navegador. Formado em Sistemas de Informação, há mais de 5 anos colocando software no ar."></a>
 
-#### Main Stack:
+<p>
+<a href="https://discord.gg/ueqmbKmEbB"><img src="assets/btn-discord.svg" height="56" alt="Chamar no Discord"></a>
+<a href="https://devdaltonedition.com/home"><img src="assets/btn-site.svg" height="56" alt="Ver o que eu faço"></a>
+</p>
 
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+<br>
 
+<img src="assets/h-01.svg" width="100%" alt="01 · O que eu faço. Quatro frentes. Um só responsável.">
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<p>
+<a href="https://devdaltonedition.com/portfolio#web"><img src="assets/card-web.svg" width="49%" alt="Sistemas web: sites, painéis e APIs sob medida para o seu negócio."></a>
+<a href="https://devdaltonedition.com/fivem"><img src="assets/card-fivem.svg" width="49%" alt="Scripts FiveM: celular, banco, imobiliária e justiça para servidores de roleplay. 0.00 ms em repouso."></a>
+</p>
+<p>
+<a href="https://devdaltonedition.com/sixm"><img src="assets/card-sixm.svg" width="49%" alt="SIXM, GTA VI: scripts para os primeiros servidores de GTA VI no PC. Pré-lançamento, demos jogáveis."></a>
+<a href="https://devdaltonedition.com/portfolio#mesa"><img src="assets/card-rpg.svg" width="49%" alt="RPG no navegador: ficha, mapa e dado com física. 22 módulos em tempo real. Em breve."></a>
+</p>
 
-#### Secondary Stack:
+<br>
 
+<img src="assets/h-02.svg" width="100%" alt="02 · Por que confiar. Não precisa acreditar. Teste. O site, as demos e o servidor que as entrega são código meu.">
 
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+<a href="https://devdaltonedition.com/portfolio#vitrine"><img src="assets/proofs.svg" width="100%" alt="Teste antes de pagar. 0.00 ms em repouso. Código 100% próprio. Seus dados protegidos com token, limite de tentativas e LGPD."></a>
 
-#### Studying in this moment:
+<br>
 
+<img src="assets/h-03.svg" width="100%" alt="03 · Com o que eu construo. Do banco de dados à tela.">
 
-#### Frameworks & Library 
+<img src="assets/stack.svg" width="100%" alt="Back: Node.js, Express, TypeScript, C#, Python, Zod, JWT. Front: JavaScript, React, Vite, GSAP, Three.js, WebGL. Jogo: Lua, FiveM, NUI, Blender, Sollumz. Dados: MySQL, WebSocket, SQLite.">
 
-![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
-![Nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
-![Vuejs](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)&nbsp;
+<br>
 
-#### Databases:
+<img src="assets/h-04.svg" width="100%" alt="04 · Contato. Tem um projeto? Vamos conversar.">
 
-![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+<p>
+<a href="https://discord.gg/ueqmbKmEbB"><img src="assets/btn-discord.svg" height="64" alt="Chamar no Discord"></a>
+</p>
+<p>
+<a href="mailto:daltonedition156@gmail.com"><img src="assets/btn-mail.svg" height="48" alt="E-mail: daltonedition156@gmail.com"></a>
+<a href="https://www.instagram.com/dtnedition/"><img src="assets/btn-insta.svg" height="48" alt="Instagram @dtnedition"></a>
+<a href="https://www.linkedin.com/in/marcelo-dalton/"><img src="assets/btn-in.svg" height="48" alt="LinkedIn"></a>
+</p>
 
-#### Workstation Tools:
+<br>
 
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
-
-
-&nbsp;
-&nbsp;
-
-## Contacts:
-
-<div> 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href = "mailto:marcelodalton156@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/marcelo-henrique-852984215" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-
- 
-
-  
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<a href="https://devdaltonedition.com"><img src="assets/footer.svg" width="100%" alt="Dalton Edition. Resposta direta de quem escreve o código."></a>
